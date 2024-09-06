@@ -1,1 +1,1 @@
-All DailyCOde Assignments for Week 1.2
+All DailyCode Assignments for Week 1.2
